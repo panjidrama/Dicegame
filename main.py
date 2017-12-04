@@ -1,4 +1,8 @@
 #Dicegame1
+"""" Ce programme simule le tirage de trois dés à 6 faces aux valeurs non canoniques. Pour chaque dé à une valeur inférieure, le joueur gagne 1 point. Pour chaque dé à valeur supérieure, il perd un point. 
+Ceci simule des parties de 100 rounds.
+""""
+
 import random
 #Dés
 DA = [2, 2, 4, 4, 9, 9]
